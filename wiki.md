@@ -33,6 +33,7 @@
 
 > [!IMPORTANT]  
 > **Remise du TP1**
+
 + ## Semaine 7
   - Analyse de mouvement et de présence
   - Captation vidéo et utilisations d’effets en temps réel
@@ -48,6 +49,7 @@
 + ## Semaine 10
 > [!CAUTION]  
 > **REMISE ET PRÉSENTATION DU TP02**
+> 
 + ## Semaine 11
   - Introduction de l’activité synthèse et travail en classe   
 + ## Semaine 12
@@ -57,6 +59,7 @@
 + ## Semaine 14
 > [!WARNING]  
 > **REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE**
+> 
 + ## Semaine 15
 > [!WARNING]  
 > **REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE**
