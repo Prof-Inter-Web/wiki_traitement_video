@@ -8,7 +8,8 @@
   - Introduction à l’interface et aux opérateurs
   - Révision en vue de l’examen
 
-```+ ## Semaine 3
++ ## Semaine 3
+  ```
   - Principes d’interface avancée
   - Encodage et gestion des médias
   - Intégration de banques de médias (vidéos et échantillons)
