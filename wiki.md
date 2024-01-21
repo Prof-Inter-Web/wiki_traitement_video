@@ -1,4 +1,4 @@
-# Traitement vidéo
+# WIKI
 + Semaine 1
   - Historique de la performance audiovisuelle et de l’installation vidéo interactive
   - Traitement vidéo (rendu, pixels, textures, nuanceurs)
