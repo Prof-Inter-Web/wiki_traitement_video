@@ -18,7 +18,8 @@
   - Principe de sauvegarde et contrôle de version
  
 
-$${\color{red}**EXAMEN**}$$
+EXAMEN
+{: .blue .bold}
 
 ***
 
