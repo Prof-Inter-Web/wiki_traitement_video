@@ -18,7 +18,7 @@
   - Principe de sauvegarde et contrôle de version
  
 
-$${\color{red}Red}$$
+$${\color{red}**EXAMEN**}$$
 
 ***
 
