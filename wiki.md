@@ -14,9 +14,7 @@
   - Principe de sauvegarde et contrôle de version
  
 > [!WARNING]  
-> **EXAMEN**
-
-{{< example stackblitz_add_js="true" >}}
+> <span style= color:red;>**EXAMEN**</span>
 
 + ## Semaine 4
   - Rétroaction vidéo (video feedback)
