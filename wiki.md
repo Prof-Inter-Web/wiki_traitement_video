@@ -1,5 +1,4 @@
-# WIKI
-+ Semaine 1
++ ## Semaine 1
   - Historique de la performance audiovisuelle et de l’installation vidéo interactive
   - Traitement vidéo (rendu, pixels, textures, nuanceurs)
   - Choix d’un logiciel de programmation et de traitement en temps réel  
