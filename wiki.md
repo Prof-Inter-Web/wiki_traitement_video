@@ -18,8 +18,7 @@
   - Principe de sauvegarde et contrôle de version
  
 
-<span style= color:red;>**EXAMEN**</span>
-<span style="color:blue">some *blue* text</span>
+$${\color{red}Red}$$
 
 ***
 
