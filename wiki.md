@@ -12,12 +12,32 @@
   - Intégration de banques de médias (vidéos et échantillons)
   - Contrôle de lecture et déclenchement de vidéos et de sons
   - Principe de sauvegarde et contrôle de version
-+ Semaine 4
-+ Semaine 5
-+ Semaine 6
-+ Semaine 7
-+ Semaine 8
-+ Semaine 9
++ ## Semaine 4
+  - Rétroaction vidéo (video feedback)
+  - Modification et décalage de couleurs
+  - Position, taille et rotation de l’image
+  - Compositions visuelles génératives
++ ## Semaine 5
+  - Introduction au TP1 et travail en classe
+  - Conceptualisation et scénarisation d’un projet vidéo interactif  
++ ## Semaine 6
+  - Analyse multi-bande de l’intensité audio
+  - Suivi d’enveloppe
+  - Détection de dépassement de seuil
+  - Intégration d’interfaces de contrôle (ex. MIDI)
+  - Modulation de paramètres sonores en lien avec l’interactivité  
++ ## Semaine 7
+  - Analyse de mouvement et de présence
+  - Captation vidéo et utilisations d’effets en temps réel
+  - Modulation de paramètres visuels en lien avec l’interactivité
+  - Simulation de captation pour permettre de travailler sans l’équipement spécialisé  
++ ## Semaine 8
+  - Génération et utilisation d’objets en 3d
+  - Utilisation de nuanceurs (shaders)
+  - Mélange et incrustation vidéo (ex. chrominance, luminance, addition, soustraction, transparence)
+  - Mappage et adaptation des échelles  
++ ## Semaine 9
+  - Introduction au TP2 et travail en classe 
 + Semaine 10
 + Semaine 11
 + Semaine 12
