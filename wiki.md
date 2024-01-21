@@ -18,8 +18,7 @@
   - Principe de sauvegarde et contrôle de version
  
 
-EXAMEN
-{: .blue .bold}
+<span style="color:red;">EXAMEN</span>
 
 ***
 
