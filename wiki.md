@@ -48,10 +48,17 @@
 + ## Semaine 10
 > [!CAUTION]  
 > **REMISE ET PRÉSENTATION DU TP02**
-+ Semaine 11
-+ Semaine 12
-+ Semaine 13
-+ Semaine 14
-+ Semaine 15
++ ## Semaine 11
+  - Introduction de l’activité synthèse et travail en classe   
++ ## Semaine 12
+  - Travail en classe sur l’activité synthèse  
++ ## Semaine 13
+  - Travail en classe sur l’activité synthèse  
++ ## Semaine 14
+> [!WARNING]  
+> **REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE**
++ ## Semaine 15
+> [!WARNING]  
+> **REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE**
 
 
