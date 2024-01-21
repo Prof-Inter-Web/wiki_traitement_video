@@ -17,7 +17,7 @@
  
 __`EXAMEN`__
 
-<h1>Examen</h1>
+<p style="color:red;">Examen</p>
 
 + ## Semaine 4
   - Rétroaction vidéo (video feedback)
