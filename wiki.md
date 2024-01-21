@@ -15,7 +15,6 @@
   - Contrôle de lecture et déclenchement de vidéos et de sons
   - Principe de sauvegarde et contrôle de version
  
-
 __`EXAMEN`__
 
 + ## Semaine 4
