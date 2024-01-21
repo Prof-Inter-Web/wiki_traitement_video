@@ -16,6 +16,8 @@
 
 <span style= color:red;>**EXAMEN**</span>
 
+***
+
 + ## Semaine 4
   - Rétroaction vidéo (video feedback)
   - Modification et décalage de couleurs
