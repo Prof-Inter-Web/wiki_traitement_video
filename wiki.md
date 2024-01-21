@@ -45,7 +45,9 @@
   - Mappage et adaptation des échelles  
 + ## Semaine 9
   - Introduction au TP2 et travail en classe 
-+ Semaine 10
++ ## Semaine 10
+  > [!CAUTION]  
+> **REMISE ET PRÉSENTATION DU TP02**
 + Semaine 11
 + Semaine 12
 + Semaine 13
