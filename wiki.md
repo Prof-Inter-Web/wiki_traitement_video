@@ -28,7 +28,7 @@
   - Modulation de paramètres sonores en lien avec l’interactivité
 
 > [!IMPORTANT]  
-> Remise du TP1
+> **Remise du TP1**
 + ## Semaine 7
   - Analyse de mouvement et de présence
   - Captation vidéo et utilisations d’effets en temps réel
