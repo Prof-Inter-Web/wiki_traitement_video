@@ -1,4 +1,3 @@
-theme: jekyll-theme-cayman
 # Traitement vidéo
 + Semaine 1
   - Historique de la performance audiovisuelle et de l’installation vidéo interactive
