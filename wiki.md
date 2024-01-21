@@ -28,6 +28,9 @@
   - Modulation de paramètres sonores en lien avec l’interactivité
 ***
 [!warning]Remise du TP1
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
 + ## Semaine 7
   - Analyse de mouvement et de présence
   - Captation vidéo et utilisations d’effets en temps réel
