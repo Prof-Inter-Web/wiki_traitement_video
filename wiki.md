@@ -13,8 +13,8 @@
   - Contrôle de lecture et déclenchement de vidéos et de sons
   - Principe de sauvegarde et contrôle de version
  
-> [!WARNING]  
-> <span style= color:red;>**EXAMEN**</span>
+
+<span style= color:red;>**EXAMEN**</span>
 
 + ## Semaine 4
   - Rétroaction vidéo (video feedback)
