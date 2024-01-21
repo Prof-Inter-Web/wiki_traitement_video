@@ -4,9 +4,11 @@
   - Choix d’un logiciel de programmation et de traitement en temps réel 
 
 + ## Semaine 2
+  ```
   - Configuration logicielle et matérielle d’un projet vidéo interactif
   - Introduction à l’interface et aux opérateurs
   - Révision en vue de l’examen
+  ```
 
 + ## Semaine 3
   ```
