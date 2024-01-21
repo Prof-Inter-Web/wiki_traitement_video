@@ -12,6 +12,10 @@
   - Intégration de banques de médias (vidéos et échantillons)
   - Contrôle de lecture et déclenchement de vidéos et de sons
   - Principe de sauvegarde et contrôle de version
+ 
+> [!WARNING]  
+> **EXAMEN**
+
 + ## Semaine 4
   - Rétroaction vidéo (video feedback)
   - Modification et décalage de couleurs
