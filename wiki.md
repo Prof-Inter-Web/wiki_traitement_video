@@ -37,8 +37,7 @@ __`EXAMEN`__
   - Intégration d’interfaces de contrôle (ex. MIDI)
   - Modulation de paramètres sonores en lien avec l’interactivité
 
-> [!IMPORTANT]  
-> **Remise du TP1**
+__`Remise du TP1`__
 
 + ## Semaine 7
   - Analyse de mouvement et de présence
@@ -53,9 +52,8 @@ __`EXAMEN`__
 + ## Semaine 9
   - Introduction au TP2 et travail en classe 
 + ## Semaine 10
-> [!CAUTION]  
-> **REMISE ET PRÉSENTATION DU TP02**
-> 
+__`REMISE ET PRÉSENTATION DU TP02`__
+
 + ## Semaine 11
   - Introduction de l’activité synthèse et travail en classe   
 + ## Semaine 12
@@ -63,11 +61,9 @@ __`EXAMEN`__
 + ## Semaine 13
   - Travail en classe sur l’activité synthèse  
 + ## Semaine 14
-> [!WARNING]  
-> **REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE**
-> 
+__`REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE`__
+
 + ## Semaine 15
-> [!WARNING]  
-> **REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE**
+__`REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE`__
 
 
