@@ -15,7 +15,7 @@
   - Contrôle de lecture et déclenchement de vidéos et de sons
   - Principe de sauvegarde et contrôle de version
  
-**`# EXAMEN`**
+**`EXAMEN`**
 
 + ## Semaine 4
   - Rétroaction vidéo (video feedback)
@@ -34,7 +34,7 @@
   - Intégration d’interfaces de contrôle (ex. MIDI)
   - Modulation de paramètres sonores en lien avec l’interactivité
 
-__`Remise du TP1`__
+**`Remise du TP1`**
 
 + ## Semaine 7
   - Analyse de mouvement et de présence
@@ -52,7 +52,7 @@ __`Remise du TP1`__
   - Introduction au TP2 et travail en classe
     
 + ## Semaine 10
-__`REMISE ET PRÉSENTATION DU TP02`__
+**`REMISE ET PRÉSENTATION DU TP02`**
 
 + ## Semaine 11
   - Introduction de l’activité synthèse et travail en classe
@@ -64,9 +64,9 @@ __`REMISE ET PRÉSENTATION DU TP02`__
   - Travail en classe sur l’activité synthèse
     
 + ## Semaine 14
-__`REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE`__
+**`REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE`**
 
 + ## Semaine 15
-__`REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE`__
+**`REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE`**
 
 
