@@ -18,7 +18,7 @@
   - Principe de sauvegarde et contrôle de version
  
 
-%md `###<span style="color:red;">EXAMEN</span>
+__`A`__
 
 ***
 
