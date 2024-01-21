@@ -16,7 +16,7 @@
   - Principe de sauvegarde et contrôle de version
  
 ```
-EXAMEN
+**EXAMEN**
 ```
 
 + ## Semaine 4
