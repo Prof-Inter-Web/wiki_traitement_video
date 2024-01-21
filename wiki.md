@@ -1,11 +1,15 @@
 + ## Semaine 1
   - Historique de la performance audiovisuelle et de l’installation vidéo interactive
   - Traitement vidéo (rendu, pixels, textures, nuanceurs)
-  - Choix d’un logiciel de programmation et de traitement en temps réel  
+  - Choix d’un logiciel de programmation et de traitement en temps réel 
+***
+
 + ## Semaine 2
   - Configuration logicielle et matérielle d’un projet vidéo interactif
   - Introduction à l’interface et aux opérateurs
-  - Révision en vue de l’examen  
+  - Révision en vue de l’examen
+***
+
 + ## Semaine 3
   - Principes d’interface avancée
   - Encodage et gestion des médias
