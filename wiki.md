@@ -17,8 +17,6 @@
  
 __`EXAMEN`__
 
-<p style="color: red; font-size: 2rem">Examen</p>
-
 + ## Semaine 4
   - Rétroaction vidéo (video feedback)
   - Modification et décalage de couleurs
