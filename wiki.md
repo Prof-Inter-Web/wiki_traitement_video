@@ -20,7 +20,7 @@
 
 <details>
 
-# <summary>Semaine 1</summary>
+<summary>Semaine 1</summary>
 
 ### You can add a header
 
