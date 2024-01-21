@@ -17,6 +17,8 @@
  
 __`EXAMEN`__
 
+<span style="color:red">cardinals</span>
+
 + ## Semaine 4
   - Rétroaction vidéo (video feedback)
   - Modification et décalage de couleurs
