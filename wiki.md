@@ -16,6 +16,8 @@
 > [!WARNING]  
 > **EXAMEN**
 
+{{< example stackblitz_add_js="true" >}}
+
 + ## Semaine 4
   - Rétroaction vidéo (video feedback)
   - Modification et décalage de couleurs
