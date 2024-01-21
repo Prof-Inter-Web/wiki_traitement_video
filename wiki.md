@@ -4,14 +4,11 @@
   - Choix d’un logiciel de programmation et de traitement en temps réel 
 
 + ## Semaine 2
-  ```
   - Configuration logicielle et matérielle d’un projet vidéo interactif
   - Introduction à l’interface et aux opérateurs
   - Révision en vue de l’examen
-  ```
 
 + ## Semaine 3
-  ```
   - Principes d’interface avancée
   - Encodage et gestion des médias
   - Intégration de banques de médias (vidéos et échantillons)
@@ -38,7 +35,9 @@ EXAMEN
   - Intégration d’interfaces de contrôle (ex. MIDI)
   - Modulation de paramètres sonores en lien avec l’interactivité
 
-**`Remise du TP1`**
+```
+Remise du TP1
+```
 
 + ## Semaine 7
   - Analyse de mouvement et de présence
@@ -56,7 +55,9 @@ EXAMEN
   - Introduction au TP2 et travail en classe
     
 + ## Semaine 10
-**`REMISE ET PRÉSENTATION DU TP02`**
+```
+REMISE ET PRÉSENTATION DU TP02
+```
 
 + ## Semaine 11
   - Introduction de l’activité synthèse et travail en classe
@@ -68,9 +69,13 @@ EXAMEN
   - Travail en classe sur l’activité synthèse
     
 + ## Semaine 14
-**`REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE`**
+```
+REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE
+```
 
 + ## Semaine 15
-**`REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE`**
+```
+REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE
+```
 
 
