@@ -15,7 +15,7 @@
   - Contrôle de lecture et déclenchement de vidéos et de sons
   - Principe de sauvegarde et contrôle de version
  
-__`EXAMEN`__
+**`EXAMEN`**
 
 + ## Semaine 4
   - Rétroaction vidéo (video feedback)
