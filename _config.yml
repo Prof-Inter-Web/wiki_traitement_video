@@ -3,3 +3,5 @@ description: [A short description of your site's purpose]
 
 minima:
   skin: dark
+  
+theme: jekyll-theme-cayman
