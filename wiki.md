@@ -34,7 +34,7 @@ EXAMEN
   - Détection de dépassement de seuil
   - Intégration d’interfaces de contrôle (ex. MIDI)
   - Modulation de paramètres sonores en lien avec l’interactivité
-  ```
+```
 Remise du TP1
 ```
 
@@ -77,5 +77,3 @@ REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE
 REMISE ET PRÉSENTATION DE L'ACTIVITÉ SYNTHÈSE
 ```
 
-> [!WARNING]
-> TEST
