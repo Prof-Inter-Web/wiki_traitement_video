@@ -34,7 +34,6 @@ EXAMEN
   - Détection de dépassement de seuil
   - Intégration d’interfaces de contrôle (ex. MIDI)
   - Modulation de paramètres sonores en lien avec l’interactivité
-
 ```
 Remise du TP1
 ```
